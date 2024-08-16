@@ -1,5 +1,3 @@
-#Include %A_LineFile%\..\JSON.ahk
-
 #NoEnv
 #SingleInstance, Force
 #Persistent
